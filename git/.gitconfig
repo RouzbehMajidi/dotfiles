@@ -1,0 +1,6 @@
+[alias]
+        co = checkout
+        oops = commit --amend --no-edit -a
+        cp = cherry-pick
+        fixup = commit -a --fixup
+        wip = commit -a -m 'WIP'
