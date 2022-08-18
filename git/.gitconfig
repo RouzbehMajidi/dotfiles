@@ -4,3 +4,5 @@
         cp = cherry-pick
         fixup = commit -a --fixup
         wip = commit -a -m 'WIP'
+[push]
+        autoSetupRemote = true
